@@ -6,7 +6,7 @@ toc: true
 
 
 
-## Education
+## Education & Experience
 
 
 2019-2023
