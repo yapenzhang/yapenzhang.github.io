@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+<head>
+  <meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="Ultra hot Jupiter (UHJ) is an extreme class of exoplanets which gets really close to its host star, typically within 0.05 au, and with an eqlibrium temperature higher than 2000K. Becasue of the extreme conditions, they are excellent laboratories for the atmospheric characterization. At such high temperature, many species are mainly in the atomic form, such as atomic H, Na, Fe, and inoic Fe&#43;. High temperature contrast is typically found between the day and night side of these planets, which can lead to day-to-night-side winds and chemical asymmetry.">
+<meta name="theme-color" content="#FFFFFF">
+<meta name="color-scheme" content="light dark"><meta property="og:title" content="Transmission spectroscopy of ultra-hot Jupiters" />
+<meta property="og:description" content="Ultra hot Jupiter (UHJ) is an extreme class of exoplanets which gets really close to its host star, typically within 0.05 au, and with an eqlibrium temperature higher than 2000K. Becasue of the extreme conditions, they are excellent laboratories for the atmospheric characterization. At such high temperature, many species are mainly in the atomic form, such as atomic H, Na, Fe, and inoic Fe&#43;. High temperature contrast is typically found between the day and night side of these planets, which can lead to day-to-night-side winds and chemical asymmetry." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://yapenzhang.github.io/project/uhj/" />
+<meta property="article:published_time" content="2022-08-16T20:33:51+02:00" />
+<meta property="article:modified_time" content="2022-08-16T20:33:51+02:00" />
+<title>Transmission spectroscopy of ultra-hot Jupiters | Yapeng Zhang</title>
+<link rel="manifest" href="/manifest.json">
+<link rel="icon" href="/favicon.png" type="image/x-icon">
+<link rel="stylesheet" href="/book.min.33a48f5432973b8ff9a82679d9e45d67f2c15d4399bd2829269455cfe390b5e8.css" integrity="sha256-M6SPVDKXO4/5qCZ52eRdZ/LBXUOZvSgpJpRVz&#43;OQteg=" crossorigin="anonymous">
+  <script defer src="/flexsearch.min.js"></script>
+  <script defer src="/en.search.min.e7b25a4c70e6376652db2441b04168e1770685d89e3e3c6f591cd4f69b40fcd2.js" integrity="sha256-57JaTHDmN2ZS2yRBsEFo4XcGhdiePjxvWRzU9ptA/NI=" crossorigin="anonymous"></script>
+
+  <script defer src="/sw.min.6f6f90fcb8eb1c49ec389838e6b801d0de19430b8e516902f8d75c3c8bd98739.js" integrity="sha256-b2&#43;Q/LjrHEnsOJg45rgB0N4ZQwuOUWkC&#43;NdcPIvZhzk=" crossorigin="anonymous"></script>
+<!--
+Made with Book Theme
+https://github.com/alex-shpak/hugo-book
+-->
+  
+</head>
+<body dir="ltr">
+  <input type="checkbox" class="hidden toggle" id="menu-control" />
+  <input type="checkbox" class="hidden toggle" id="toc-control" />
+  <main class="container flex">
+    <aside class="book-menu">
+      <div class="book-menu-content">
+        
+  <nav>
+<h2 class="book-brand">
+  <a class="flex align-center" href="/"><span>Yapeng Zhang</span>
+  </a>
+</h2>
+
+
+<div class="book-search">
+  <input type="text" id="book-search-input" placeholder="Search" aria-label="Search" maxlength="64" data-hotkeys="s/" />
+  <div class="book-search-spinner hidden"></div>
+  <ul id="book-search-results"></ul>
+</div>
+
+
+
+  
+
+
+
+  
+    
+  
+
+
+
+<ul class="book-languages">
+  <li>
+    <input type="checkbox" id="languages" class="toggle" />
+    <label for="languages" class="flex justify-between">
+      <a role="button" class="flex align-center">
+        <img src="/svg/translate.svg" class="book-icon" alt="Languages" />
+        English
+      </a>
+    </label>
+
+    <ul>
+      
+      <li>
+        <a href="https://yapenzhang.github.io/zh/">
+          Chinese
+        </a>
+      </li>
+      
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+  <ul>
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/about/" class="">About Me</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/cv/" class="">CV</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/publication/" class="">Publications</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+      
+        <li>
+          
+  
+  
+
+  
+    <a href="/docs/code/" class="">Code</a>
+  
+
+          
+  <ul>
+    
+  </ul>
+
+        </li>
+      
+    
+  </ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+  <script>(function(){var a=document.querySelector("aside .book-menu-content");addEventListener("beforeunload",function(b){localStorage.setItem("menu.scrollTop",a.scrollTop)}),a.scrollTop=localStorage.getItem("menu.scrollTop")})()</script>
+
+
+ 
+      </div>
+    </aside>
+
+    <div class="book-page">
+      <header class="book-header">
+        
+  <div class="flex align-center justify-between">
+  <label for="menu-control">
+    <img src="/svg/menu.svg" class="book-icon" alt="Menu" />
+  </label>
+
+  <strong>Transmission spectroscopy of ultra-hot Jupiters</strong>
+
+  <label for="toc-control">
+    
+    <img src="/svg/toc.svg" class="book-icon" alt="Table of Contents" />
+    
+  </label>
+</div>
+
+
+  
+  <aside class="hidden clearfix">
+    
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#high-resolution-transmission-spectroscopy-of-ultra-hot-jupiters">High-resolution transmission spectroscopy of ultra-hot Jupiters</a></li>
+        <li><a href="#disentangling-the-hydrostatic-and-exospheric-regimes-of-ultra-hot-jupiters">Disentangling the hydrostatic and exospheric regimes of ultra-hot Jupiters</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+
+  </aside>
+  
+ 
+      </header>
+
+      
+      
+  <article class="markdown"><p>Ultra hot Jupiter (UHJ) is an extreme class of exoplanets which gets really close to its host star, typically within 0.05 au, and with an eqlibrium temperature higher than 2000K. Becasue of the extreme conditions, they are excellent laboratories for the atmospheric characterization. At such high temperature, many species are mainly in the atomic form, such as atomic H, Na, Fe, and inoic Fe+. High temperature contrast is typically found between the day and night side of these planets, which can lead to day-to-night-side winds and chemical asymmetry. Furthermore, the atmopsheric escape is an important topic in the context of UHJs, because hot early-type host stars are dumping high energy into the close-in planet upper atmosphere (also called exopshere). This could increase the temperature there, and allow for significant hydrodynamic escape. Studying the mass loss is important in understanding the evolution of these highly-iradiated exoplanets.
+So far there are a few tens of UHJs discovered, and about a handful of them have been studied in detail with high resolution spectroscopy (see <em>Figure</em> 1).</p>
+<p>
+  <img src="Picture1.png" alt="Ultra-hot Jupiters with equilibrium temperature higher than 2000K. Plotted here are the brightness of host stars against atmospheric scale heights of the planets, color coded with their equilibrium temperature." /></p>
+<h2 id="high-resolution-transmission-spectroscopy-of-ultra-hot-jupiters">
+  High-resolution transmission spectroscopy of ultra-hot Jupiters
+  <a class="anchor" href="#high-resolution-transmission-spectroscopy-of-ultra-hot-jupiters">#</a>
+</h2>
+<p>In order to characterize the atmospheres, we utilise high-resolution transmission spectroscopy. During transit the starlight filters through the planetary atmosphere, resulting in excess absorption because of the opacities in the planetary atmosphere. We compare high-resolution spectra of the system both during and out-of transit in order to tease out the planetary signatures (see <em>Figure</em> 2).</p>
+<p>
+  <img src="Transmission.gif" alt="Illustration of high-resolution transmission spectroscopy. The planet is moving towards us (blue-shifted) at the beginning of the transit, and then moving away (red-shifted) after the mid-transit. In the bottom panel, the y-axis is the orbital phase or time; each row is one transmission spectrum at a certain time (i.e. division between in-transit and out-of-transit spectra). The dark shadow represents the trace of the planetary absoprtion signal shifting in radial velocity due to the orbital motion of the planet. Co-adding this 2D time series in the planet&amp;rsquo;s rest frame leads to the final 1D transmission spectrum like shown in &lt;em&gt;Figure&lt;/em&gt; 3." /></p>
+<p>
+  <img src="M4_species1d.png" alt="Transmission spectrum of the ultra-hot Jupiter MASCARA-4 b around Hα, Hβ, Na D1&amp;amp;D2, Ca&#43; H&amp;amp;K, Mg, Fe, and Fe&#43; lines observed with VLT/ESPRESSO." /></p>
+<h2 id="disentangling-the-hydrostatic-and-exospheric-regimes-of-ultra-hot-jupiters">
+  Disentangling the hydrostatic and exospheric regimes of ultra-hot Jupiters
+  <a class="anchor" href="#disentangling-the-hydrostatic-and-exospheric-regimes-of-ultra-hot-jupiters">#</a>
+</h2>
+<p>As the detection of atoms with high-resolution transmission spectroscopy accumulates quickly, a small sample of ultra-hot Jupiters starts to build up, providing us with the opportunity to study potential trends of atomic signatures in the UHJ population. Among various species, H, Na, Mg, Ca+, Fe, and Fe+ have been commonly detected in a handful of UHJs as shown in <em>Figure</em> 4. We plot the measured absorption amplitude against the expected values from the hydrostatic point of view. Neutral metal species including Na, Mg, and Fe generally show linear correlations, meaning that they agree with the hydrostatic regime. Hydrogen and ionized Fe do not follow the linear hydrostatic trends, indicating that they probe the exopsheric regime, where the thermal chemical equilibrium, local thermodynamic equilibrium, and hydrostatic assumptions no longer apply.</p>
+<p>
+  <img src="UHJ_scaleheight.png" alt="Correlation of observed line strengths (h) of different species with expected transmission strengths of absorbers extending one atmospheric scale height for different UHJs. The color saturation of data points represents the temperature of the host star. The Pearson correlation coeffcients r and the p-values for testing non-correlation are calculated for each species. For metals such as Mg and Fe, r close to 1 and p-value close to 0 indicate strong linear correlation of absorption amplitudes with scale heights. The linear fit to the data points is delineated with dotted gray lines, the slope of which represents the number of scale heights that a certain species probes." /></p>
+<p>We further highlight the exospheric origin of Hα and Fe+ in <em>Figure</em> 5. The absorption strength of Fe+ shows a positive relation with Hα, which is a strong evidence that both species trace the exospheres. In that case, the absorption levels are determined by the hydrodynamic outflow as induced by the high energy stellar radiation. Therefore, these lines are useful tracers for the atmospheric escape and mass loss of UHJs.</p>
+<p>
+  <img src="UHJ_Fep_Ha.png" alt="Absorption strength of Fe&#43; shows a positive relation with Hα in UHJs." /></p>
+</article>
+ 
+      
+
+      <footer class="book-footer">
+        
+  <div class="flex flex-wrap justify-between">
+
+
+
+
+
+</div>
+
+
+
+  <script>(function(){function a(c){const a=window.getSelection(),b=document.createRange();b.selectNodeContents(c),a.removeAllRanges(),a.addRange(b)}document.querySelectorAll("pre code").forEach(b=>{b.addEventListener("click",function(c){if(window.getSelection().toString())return;a(b.parentElement),navigator.clipboard&&navigator.clipboard.writeText(b.parentElement.textContent)})})})()</script>
+
+
+ 
+        
+      </footer>
+
+      
+  
+  <div class="book-comments">
+
+</div>
+  
+ 
+
+      <label for="menu-control" class="hidden book-menu-overlay"></label>
+    </div>
+
+    
+    <aside class="book-toc">
+      <div class="book-toc-content">
+        
+  
+<nav id="TableOfContents">
+  <ul>
+    <li>
+      <ul>
+        <li><a href="#high-resolution-transmission-spectroscopy-of-ultra-hot-jupiters">High-resolution transmission spectroscopy of ultra-hot Jupiters</a></li>
+        <li><a href="#disentangling-the-hydrostatic-and-exospheric-regimes-of-ultra-hot-jupiters">Disentangling the hydrostatic and exospheric regimes of ultra-hot Jupiters</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+
+
+ 
+      </div>
+    </aside>
+    
+  </main>
+
+  
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

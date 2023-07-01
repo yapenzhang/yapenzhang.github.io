@@ -1,0 +1,284 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+<meta charset='utf-8'>
+<meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+<meta name='description' content=''>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+<style>
+
+body {
+  background-color: rgb(37,38,39);
+}
+.panel-success > .panel-heading-custom {
+    color: rgb(37,38,39);
+    background: rgb(206, 235, 197);
+    border-color: rgb(184, 218, 174);
+ }
+.panel-success > .panel-body {
+    background: rgb(34,96,107); color: rgb(221, 233, 194);
+    border-radius: 3px;
+    }    
+.panel-success > .panel-custom-title {
+    background: rgb(206, 235, 197); color: rgb(37,38,39);
+}
+
+h3 {
+margin-top:0px;
+margin-bottom:0px;
+}
+body {font-family: sans-serif, Arial, Helvetica;}
+
+#myImg {
+  border-radius: 5px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+#myImg:hover {opacity: 0.5;}
+
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 100px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.9); /* Black w/ opacity */
+}
+
+/* Modal Content (image) */
+.modal-content {
+  margin: auto;
+  display: block;
+  width: 90%;
+  max-width: 800px;
+}
+
+/* Caption of Modal Image */
+#caption {
+  margin: auto;
+  display: block;
+  width: 90%;
+  max-width: 800px;
+  text-align: center;
+  color: #ccc;
+  padding: 10px 0;
+  height: 150px;
+}
+
+/* Add Animation */
+.modal-content, #caption {  
+  -webkit-animation-name: zoom;
+  -webkit-animation-duration: 0.6s;
+  animation-name: zoom;
+  animation-duration: 0.6s;
+}
+
+@-webkit-keyframes zoom {
+  from {-webkit-transform:scale(0)} 
+  to {-webkit-transform:scale(1)}
+}
+
+@keyframes zoom {
+  from {transform:scale(0)} 
+  to {transform:scale(1)}
+}
+
+/* The Close Button */
+.close {
+  position: absolute;
+  top: 15px;
+  right: 35px;
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  transition: 0.3s;
+}
+
+.close:hover,
+.close:focus {
+  color: #bbb;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+/* 100% Image Width on Smaller Screens */
+@media only screen and (max-width: 700px){
+  .modal-content {
+    width: 100%;
+  }
+}
+</style>
+<title>He airglow emission</title>
+<body>
+  <div class='container' style='margin-top:20px'>
+    <div class='row'>
+      <div class='col-sm-12'>
+        <div class='panel panel-success'>
+          <div class='panel-body panel-custom-title'>
+              <h1 class='text-center'>A search for He I airglow emission from the hot Jupiter &tau; Boo b</h1>
+              <p class='text-center'>Yapeng Zhang<sup>1</sup>, I.A.G. Snellen<sup>1</sup>, P. Mollière<sup>1,2</sup>, F. J. Alonso-Floriano<sup>1</sup>, R. K. Webb  <sup>3</sup>, M. Brogi<sup>3,4</sup>, A Wyttenbach<sup>1,5</sup> </p>
+              <p class='text-center'><sup>1</sup> Leiden Observatory, <sup>2</sup> Max-Planck-Institut für Astronomie, <sup>3</sup> University of Warwick, <sup>4</sup> INAF - Osservatorio Astrofisico di Torino, <sup>5</sup> Université Grenoble Alpes</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col-sm-12'>
+        <div class='panel panel-success'>
+          <div class='panel-body'>
+              <p><strong>Abstract</strong><br>
+                  The helium absorption line at 10830 &#8491; has been suggested as an excellent probe for the extended atmospheres of hot Jupiters, 
+                  and has recently been detected in the transmission spectra of a handful of planets. 
+                  The isotropic re-emission will lead to <b></b>helium airglow</b> that may be observable at other orbital phases.
+                  The goal of this work is to investigate the detectability of He I emission at 10830 &#8491; in the atmospheres of exoplanets using high-resolution spectroscopy. 
+                  We estimate the expected strength of He I emission in hot Jupiters based on their transmission signal. 
+                  We search for the He I 10830 &#8491; emission feature in &tau; Boo b in three nights of high-resolution spectra taken by CARMENES. 
+                  The He I emission is not detected in &tau; Boo b, reaching a 5&sigma; contrast limit of 4&times;10<sup>-4</sup> for emission line widths of >20 km s<sup>-1</sup>,
+                  which is not sensitive enough to make a detection yet.
+                  This suggests that targeting the He I emission with well-designed observations using upcoming instruments such as VLT/CRIRES+ and E-ELT/HIRES is possible.</p>
+              </div>
+        </div>
+      </div>
+    </div>
+    <div class='row'>
+      <div class='col-sm-4'>
+        <div class='panel panel-success'>
+          <div class="panel-heading-custom panel-heading heading"><h3>Introduction: He airglow</h3></div>
+          <div class='panel-body'>
+            <!-- <h3>Introduction: He airglow</h3> -->
+            <!-- <img  class="myImages" id="myImg" src="https://i.loli.net/2020/07/02/IzRQ2OasYCXdVF9.png" alt="Figure 1: 
+            Illustration of He I emission from an exosphere of a close-in planet." style="width:100%">
+            <p></p> -->
+          <img  class="myImages" id="myImg" src="img/portfolio/phd01/Figure1.png" alt="Figure 1: 
+          Illustration of He I emission from an exosphere of a close-in planet." style="width:100%">
+            <p class='small'><em>Figure 1: Illustration of He I emission from an exosphere of a close-in planet.</em></p>
+            <p>The helium absorption line at 10830 &#8491; originating from the metastable triplet state 2<sup>3</sup>S, opens a new window for porbing the extended atmospheres of gas giants from the ground [1].
+              The absorption feature has been detcted in the transmission spectra of a handful of planets (see Figure 4).
+              As helium atoms at 2<sup>3</sup>S state absorb photons to reach 2<sup>3</sup>P state, the opposite transition will happen concurrently,
+              with 10830 &#8491; photons re-emitted in random directions, leading to He I airglow emission. The study of this emission allows for better understanding of the radiation
+              fields and level populations under non-local thermodynamic equilibrium in the upper atmospheres of exoplanets. In addition, it provides a way of probing the extended atmospheres of non-transiting
+              close-in gas giants, which have not been investigated before.</p>
+              <p>Based on the absorption level measured in transmission spectroscopy (T<sub>&lambda;</sub>), we estimate the amount of emission expected from the planetary atmospheres:</p>
+              <p><img src="img/portfolio/phd01/emission_eqn.png" width='80%' height='auto'></p>
+              <p>which may be reached by combining multiple nights of observations.</p>
+          </div>
+        </div>
+        
+      </div>
+      <div class='col-sm-4'>
+        <div class='panel panel-success'>
+          <div class="panel-heading-custom panel-heading heading"><h3>Observation: &tau; Boo b</h3></div>
+          <div class='panel-body'>
+            <!-- <h3>Observation: &tau; Boo b</h3> https://i.loli.net/2020/07/02/MLHtZsO6h83AfaJ.png-->
+                <p>We search for the He I 10830 &#8491; emission feature in &tau; Boo b in five nights of high-resolution spectra taken by CARMENES at the 3.5m Calar Alto telescope. 
+                  The spectra in each night were corrected for telluric absorption, sky emission lines and stellar features, to obtain the residual spectra (see Figure 2), 
+                  and then shifted to the planetary rest frame and combined to search for the emission.</p>
+                  <img  class="myImages" id="myImg" src="img/portfolio/phd01/Res2DNightA.png" alt="Figure 2: The residual spectral series from night 1 to 5 with the y-axis representing time binned to 0.006 in orbital phase. The slanted dashed lines in red trace
+                  the expected planetary helium signal, shifting in time due to the change in the radial component of the orbital velocity of the planet." style="width:100%">
+                  <p class='small'><em>Figure 2: The residual spectral series from night 1 to 5 with the y-axis representing time binned to 0.006 in orbital phase. The slanted dashed lines in red trace
+                    the expected planetary helium signal, shifting in time due to the change in the radial component of the orbital velocity of the planet.</em></p>
+                  <!-- <img  class="myImages" id="myImg" src="https://ftp.bmp.ovh/imgs/2020/07/846aff98cf29c3ad.png" alt="Figure 2: The residual spectral series from night 1 to 5 with the y-axis representing time binned to 0.006 in orbital phase. The slanted dashed lines in red trace
+                  the expected planetary helium signal, shifting in time due to the change in the radial component of the orbital velocity of the planet." style="width:100%"> -->
+              </div>
+        </div>
+        <div class='panel panel-success'>
+          <div class="panel-heading-custom panel-heading heading"><h3>Conclusion</h3></div>
+          <div class='panel-body'>
+            <!-- <h3>Conclusion</h3> -->
+            <ul>
+              <li>Helium airglow emission from hot-Jupiters (~10<sup>-4</sup>) is not readily detected with 6.5-hour CARMENES data.</li>
+              <li>Probing He I emission with the upcoming CRIRES+/VLT (~5 nights) and HIRES/E-ELT (~3 hours) is possible.</li>
+              <!-- <li>H&alpha; airglow emission may also be promising.</li> -->
+            </ul>
+          </div>
+        </div>
+        <div class='panel panel-success'>
+          <div class='panel-body'>
+            <h4>References</h4>
+            <p class='small'>
+              [1] Oklopčić, A. &amp; Hirata, C. M. 2018, ApJ, 855, L11, <a href='https://ui.adsabs.harvard.edu/abs/2018ApJ...855L..11O/abstract' target='_blank'>ADS</a><br>
+              
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class='col-sm-4'>
+        <div class='panel panel-success'>
+          <div class="panel-heading-custom panel-heading heading"><h3>Results: detection limit</h3></div>
+            <div class='panel-body'>
+            <!-- <h3>Results: detection limit</h3> -->
+            <p>No statistically significant signal from the planetary He I 10830 &#8491; line was found. We reach a 5&sigma; contrast limit of 4&times;10<sup>-4</sup> 
+              for emission line widths of >20 km s<sup>-1</sup>, which is a factor of ~8 above the expected level of emission. </p>
+              <!-- <p><a href="" target="_blank"><img src="https://i.loli.net/2020/07/02/Mj2yNcVfwEsImQ5.png" width='100%' height='auto'></a></p> -->
+              <img  class="myImages" id="myImg" src="img/portfolio/phd01/limit.png" alt="Figure 3: The 5&sigma; detection limit of the He I airglow emission as a function of the line width of the potential signal using 3 nights of observations
+            of &tau; Boo b (solid black line), and corresponding equivalent widths of the detection limit (solid red curve)." style="width:100%">
+              <p class='small'><em>Figure 3: The 5&sigma; detection limit of the He I airglow emission as a function of the line width of the potential signal using 3 nights of observations
+                of &tau; Boo b (solid black line), and corresponding equivalent widths of the detection limit (solid red curve).</em></p>
+              <!-- <img  class="myImages" id="myImg" src="https://i.loli.net/2020/07/02/EYdp5RXocPwaDVB.png" alt="Figure 3: The 5&sigma; detection limit of the He I airglow emission as a function of the line width of the potential signal using 3 nights of observations
+              of &tau; Boo b (solid black line), and corresponding equivalent widths of the detection limit (solid red curve)." style="width:100%"> -->
+  
+          </div>
+        </div>
+        <div class='panel panel-success'>
+          <div class="panel-heading-custom panel-heading heading"><h3>Future prospect</h3></div>
+          <div class='panel-body'>
+            <img  class="myImages" id="myImg" src="img/portfolio/phd01/target.png" alt="Figure 4: The V magnitude of host stars plotted against the estimated airglow emission
+            signal for exoplanets with He I absorption detections (in red dots) or upper limits (in blue triangles). The black dashed line shows the detection limit of our analysis." style="width:100%">  
+              <p class='small'><em>Figure 4: The V magnitude of host stars plotted against the estimated airglow emission
+                signal for exoplanets with He I absorption detections (in red dots) or upper limits (in blue triangles). The black dashed line shows the detection limit of our analysis.</em></p>
+            <!-- <img  class="myImages" id="myImg" src="https://i.loli.net/2020/07/02/kwxQebzOACscloi.png" alt="Figure 4: The V magnitude of host stars plotted against the estimated airglow emission
+            signal for exoplanets with He I absorption detections (in red dots) or upper limits (in blue triangles). The black dashed line shows the detection limit of our analysis." style="width:100%"> -->
+          </div>
+        </div>
+        
+        
+      </div>
+    </div>
+  </div>
+
+<div id="myModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+  <div id="caption"></div>
+</div>
+
+<script>
+  // create references to the modal...
+var modal = document.getElementById('myModal');
+// to all images -- note I'm using a class!
+var images = document.getElementsByClassName('myImages');
+// the image in the modal
+var modalImg = document.getElementById("img01");
+// and the caption in the modal
+var captionText = document.getElementById("caption");
+
+// Go through all of the images with our custom class
+for (var i = 0; i < images.length; i++) {
+  var img = images[i];
+  // and attach our click listener for this image.
+  img.onclick = function(evt) {
+    console.log(evt);
+    modal.style.display = "block";
+    modalImg.src = this.src;
+    captionText.innerHTML = this.alt;
+  }
+}
+
+var span = document.getElementsByClassName("close")[0];
+
+span.onclick = function() {
+  modal.style.display = "none";
+}
+
+</script>
+</body>
+</html>
