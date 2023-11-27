@@ -22,7 +22,12 @@ date: 2022-08-16T14:47:54+02:00
 
 ### Co-author
 
-* Gandhi S., Kesseli A., **Zhang Y.**, Louca A., Snellen I., Brogi M., Miguel Y., et al. (2023) [Retrieval Survey of Metals in Six Ultrahot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics.](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract) **AJ**, 165, 242. 
+
+* Landman, R., Stolker, T., Snellen, I., Costes, J., de Regt, S., **Zhang, Y.**, Gandhi, S., Mollière, P., Kesseli, A., Vigan, A., & Sánchez-López, A. (2023) [β Pictoris b through the eyes of the upgraded CRIRES+.](https://ui.adsabs.harvard.edu/abs/2023arXiv231113527L/abstract) arXiv e-prints, arXiv:2311.13527.
+
+* Gandhi, S., de Regt, S., Snellen, I., **Zhang, Y.**, Rugers, B., van Leur, N., \& Bosschaart, Q. (2023) [JWST measurements of 13C, 18O and 17O in the atmosphere of super-Jupiter VHS 1256 b.](https://ui.adsabs.harvard.edu/abs/2023ApJ...957L..36G/abstract) **ApJL**, 957, L36.
+
+* Gandhi S., Kesseli A., **Zhang Y.**, Louca A., Snellen I., Brogi M., Miguel Y., et al. (2023) [Retrieval Survey of Metals in Six Ultra-hot Jupiters: Trends in Chemistry, Rain-out, Ionization, and Atmospheric Dynamics.](https://ui.adsabs.harvard.edu/abs/2023AJ....165..242G/abstract) **AJ**, 165, 242. 
 
 * Palma-Bifani P., Chauvin G., Bonnefoy M., Rojo P.~M., Petrus S., et al., including **Zhang Y.**. (2023) [Peering into the Young Planetary System AB Pic. Atmosphere, Orbit, Obliquity, and Second Planetary Candidate.](https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..90P/abstract) **A&A**, 670, A90.
 

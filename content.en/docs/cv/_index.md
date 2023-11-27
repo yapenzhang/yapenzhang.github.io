@@ -49,11 +49,15 @@ toc: true
 
 ### Invited seminar talk
 
-2021-2022
-:   Exoplanet seminar at University of Cambridge
-:   Exoplanet seminar at ETH Zurich
-:   Exocoffee journal club at MPIA/APEx Heidelberg
-:   Exoplanets and Disks Meeting at API Amsterdam
+- Planetary science seminar at Caltech
+
+- Exoplanet seminar at University of Cambridge
+
+- Exoplanet seminar at ETH Zurich
+
+- Exocoffee journal club at MPIA/APEx Heidelberg
+
+- Exoplanets and Disks Meeting at API Amsterdam
 
 ### Contributed talk
 
