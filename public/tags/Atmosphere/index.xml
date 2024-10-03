@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Atmosphere on Yapeng Zhang</title>
-    <link>https://yapenzhang.github.io/tags/Atmosphere/</link>
-    <description>Recent content in Atmosphere on Yapeng Zhang</description>
+    <title>atmosphere on Yapeng Zhang - PhD student in Astronomy</title>
+    <link>http://example.org/tags/atmosphere/</link>
+    <description>Recent content in atmosphere on Yapeng Zhang - PhD student in Astronomy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Aug 2022 20:33:51 +0200</lastBuildDate><atom:link href="https://yapenzhang.github.io/tags/Atmosphere/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Aug 2022 20:33:51 +0200</lastBuildDate><atom:link href="http://example.org/tags/atmosphere/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transmission spectroscopy of ultra-hot Jupiters</title>
-      <link>https://yapenzhang.github.io/project/uhj/</link>
+      <link>http://example.org/post/project/uhj/</link>
       <pubDate>Tue, 16 Aug 2022 20:33:51 +0200</pubDate>
       
-      <guid>https://yapenzhang.github.io/project/uhj/</guid>
+      <guid>http://example.org/post/project/uhj/</guid>
       <description>Ultra hot Jupiter (UHJ) is an extreme class of exoplanets which gets really close to its host star, typically within 0.05 au, and with an eqlibrium temperature higher than 2000K. Becasue of the extreme conditions, they are excellent laboratories for the atmospheric characterization. At such high temperature, many species are mainly in the atomic form, such as atomic H, Na, Fe, and inoic Fe+. High temperature contrast is typically found between the day and night side of these planets, which can lead to day-to-night-side winds and chemical asymmetry.</description>
     </item>
     
     <item>
       <title>Isotope ratios in exopanet atmospheres</title>
-      <link>https://yapenzhang.github.io/project/isotope/</link>
+      <link>http://example.org/post/project/isotope/</link>
       <pubDate>Thu, 15 Jul 2021 14:47:04 +0200</pubDate>
       
-      <guid>https://yapenzhang.github.io/project/isotope/</guid>
-      <description>Isotope abundance ratios play an important role in astronomy and planetary sciences, providing insights in the origin and evolution of the Solar System, interstellar chemistry, and stellar nucleosynthesis. Isotopologue abundance ratios in exoplanet atmospheres have been proposed to be new observational probes for planet formation ( Molliere &amp;amp; Snellen 2019; Morley et al. 2019) as inspired by solar system measurements. In the Solar System, deuterium-to-hydrogen (D/H) ratios demonstrate significant variations across planets, comets, and meteorites, providing important insights into the origin and evolution of the system (see Figure 1).</description>
+      <guid>http://example.org/post/project/isotope/</guid>
+      <description>Isotope abundance ratios play an important role in astronomy and planetary sciences, providing insights in the origin and evolution of the Solar System, interstellar chemistry, and stellar nucleosynthesis. Isotopologue abundance ratios in exoplanet atmospheres have been proposed to be new observational probes for planet formation (Molliere &amp;amp; Snellen 2019; Morley et al. 2019) as inspired by solar system measurements. In the Solar System, deuterium-to-hydrogen (D/H) ratios demonstrate significant variations across planets, comets, and meteorites, providing important insights into the origin and evolution of the system (see Figure 1).</description>
     </item>
     
     <item>
       <title>Helium airglow emission from close-in hot Jupiters</title>
-      <link>https://yapenzhang.github.io/project/helium/</link>
+      <link>http://example.org/post/project/helium/</link>
       <pubDate>Fri, 24 Jul 2020 14:47:10 +0200</pubDate>
       
-      <guid>https://yapenzhang.github.io/project/helium/</guid>
-      <description> </description>
+      <guid>http://example.org/post/project/helium/</guid>
+      <description> Illustration of He I emission from an exosphere of a close-in planet.It has recently been detected in the transmission spectra of a handful of planets. The isotropic reemission will lead to helium airglow that may be observable at other orbital phases. </description>
     </item>
     
   </channel>

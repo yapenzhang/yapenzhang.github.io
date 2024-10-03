@@ -2,46 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Me on Yapeng Zhang</title>
-    <link>https://yapenzhang.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in About Me on Yapeng Zhang</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 18 Jun 2023 17:12:11 +0200</lastBuildDate><atom:link href="https://yapenzhang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jul 2023 05:30:53 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Transmission spectroscopy of ultra-hot Jupiters</title>
-      <link>https://yapenzhang.github.io/project/uhj/</link>
+      <link>http://localhost:1313/project/uhj/</link>
       <pubDate>Tue, 16 Aug 2022 20:33:51 +0200</pubDate>
-      
-      <guid>https://yapenzhang.github.io/project/uhj/</guid>
+      <guid>http://localhost:1313/project/uhj/</guid>
       <description>Ultra hot Jupiter (UHJ) is an extreme class of exoplanets which gets really close to its host star, typically within 0.05 au, and with an eqlibrium temperature higher than 2000K. Becasue of the extreme conditions, they are excellent laboratories for the atmospheric characterization. At such high temperature, many species are mainly in the atomic form, such as atomic H, Na, Fe, and inoic Fe+. High temperature contrast is typically found between the day and night side of these planets, which can lead to day-to-night-side winds and chemical asymmetry.</description>
     </item>
-    
     <item>
       <title>Isotope ratios in exopanet atmospheres</title>
-      <link>https://yapenzhang.github.io/project/isotope/</link>
+      <link>http://localhost:1313/project/isotope/</link>
       <pubDate>Thu, 15 Jul 2021 14:47:04 +0200</pubDate>
-      
-      <guid>https://yapenzhang.github.io/project/isotope/</guid>
-      <description>Isotope abundance ratios play an important role in astronomy and planetary sciences, providing insights in the origin and evolution of the Solar System, interstellar chemistry, and stellar nucleosynthesis. Isotopologue abundance ratios in exoplanet atmospheres have been proposed to be new observational probes for planet formation ( Molliere &amp;amp; Snellen 2019; Morley et al. 2019) as inspired by solar system measurements. In the Solar System, deuterium-to-hydrogen (D/H) ratios demonstrate significant variations across planets, comets, and meteorites, providing important insights into the origin and evolution of the system (see Figure 1).</description>
+      <guid>http://localhost:1313/project/isotope/</guid>
+      <description>Isotope abundance ratios play an important role in astronomy and planetary sciences, providing insights in the origin and evolution of the Solar System, interstellar chemistry, and stellar nucleosynthesis. Isotopologue abundance ratios in exoplanet atmospheres have been proposed to be new observational probes for planet formation (Molliere &amp;amp; Snellen 2019; Morley et al. 2019) as inspired by solar system measurements. In the Solar System, deuterium-to-hydrogen (D/H) ratios demonstrate significant variations across planets, comets, and meteorites, providing important insights into the origin and evolution of the system (see Figure 1).</description>
     </item>
-    
     <item>
       <title>Helium airglow emission from close-in hot Jupiters</title>
-      <link>https://yapenzhang.github.io/project/helium/</link>
+      <link>http://localhost:1313/project/helium/</link>
       <pubDate>Fri, 24 Jul 2020 14:47:10 +0200</pubDate>
-      
-      <guid>https://yapenzhang.github.io/project/helium/</guid>
-      <description> </description>
+      <guid>http://localhost:1313/project/helium/</guid>
+      <description></description>
     </item>
-    
     <item>
       <title>Planet formation in highly inclined binary systems</title>
-      <link>https://yapenzhang.github.io/project/inclined/</link>
+      <link>http://localhost:1313/project/inclined/</link>
       <pubDate>Thu, 16 Aug 2018 20:56:49 +0200</pubDate>
-      
-      <guid>https://yapenzhang.github.io/project/inclined/</guid>
-      <description> </description>
+      <guid>http://localhost:1313/project/inclined/</guid>
+      <description></description>
     </item>
-    
   </channel>
 </rss>

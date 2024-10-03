@@ -47,7 +47,9 @@ toc: true
 
 ## Talks
 
-### Invited seminar talk
+### Invited talk
+
+- Fractionation II conference, Florence, *Isotopes in exoplanets and brown dwarfs.*
 
 - Planetary science seminar at Caltech
 
@@ -60,6 +62,14 @@ toc: true
 - Exoplanets and Disks Meeting at API Amsterdam
 
 ### Contributed talk
+
+2024.06.27
+:   AOGS, South Korea
+:   Title: *Atmospheric characterization and formation of super-Jovian exoplanets with high-resolution spectroscopy*
+
+2024.06.20
+:   Exoplanets 5, Leiden
+:   Title: *Atmospheric characterization of super-Jovian exoplanets through the high-res eyes of CRIRES+ and KPIC*
 
 2022.10.03
 :   From clouds to planets II: the astrochemical link, Berlin
@@ -88,6 +98,16 @@ toc: true
 
 ## Awarded telescope time
 
+
+Keck/KPF
+- *A hell of a climate: spectrally resolved phase curve of the hottest exoplanet.* Program ID: 2024B-C360, 2 nights (PI)
+
+Keck/KPIC
+- *Keck Planet Imager and Characterizer (KPIC): young giant exoplanets and substellar companions spectroscopic survey.* Program ID: 2024B-C367, 7 nights (co-I)
+
+JWST 
+- *Spectroscopic characterization of the lowest-mass imaged Jupiter analog.*  Program ID: 5342, 13 hours (co-PI)
+
 VLT/CRIRES+
 - *Comparative study on diverse origin and fate of planetary-mass objects in β Pictoris young moving group: brown dwarf members.* Program ID: 111.24KV, 3 hours (PI)
 - *The ESO SupJup Survey: Disentangling formation pathways of Super Jupiters, free-floating planets, and Brown Dwarfs.* Program ID: 110.23RW, 109 hours (co-I)
@@ -97,6 +117,9 @@ VLT/CRIRES+
 
 
 ## Teaching & Mentoring
+
+- Supervision of Summer Undergraduate Research Fellowships (SURF) program, Caltech, 2024
+    *Probing Gas Giant Origins: Chemistry of Exoplanet Atmospheres in the β Pictoris Young Moving Group*
 
 
 - Supervision of Master's research project, Leiden University, 2021-2022 
@@ -110,7 +133,7 @@ VLT/CRIRES+
 
 ## Service
 
-- Reviewer for CFHT and GEMINI observing proposal
+- Reviewer for AAS journal, CFHT and GEMINI observing proposal
 - Organizer of exoplanet group meetings, Leiden University
 
 
@@ -121,4 +144,5 @@ Press releases
 :   *First measurement of isotopes in the atmosphere of an exoplanet: a potential new tracer of exoplanet formation*
 
 Volunteer 
-:   IAU100 Flagship Programmes in 2018
+:   Mentoring high school student's research project in astronomy, 2024
+:   Volunteering IAU100 Flagship Programmes, 2018

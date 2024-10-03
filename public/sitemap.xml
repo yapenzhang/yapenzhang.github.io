@@ -2,14 +2,14 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <sitemap>
-    <loc>https://yapenzhang.github.io/en/sitemap.xml</loc>
+    <loc>http://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2023-06-18T17:12:11+02:00</lastmod>
+      <lastmod>2023-11-27T18:51:30+01:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://yapenzhang.github.io/zh/sitemap.xml</loc>
+    <loc>http://localhost:1313/zh/sitemap.xml</loc>
     
   </sitemap>
   
