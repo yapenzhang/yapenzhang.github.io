@@ -6,7 +6,14 @@ toc: true
 
 # CV
 
-## Education & Experience
+## Education & Employment
+
+2026-present
+:   Lise-Meitner Research Group Leader, MPIA, Germany
+
+2023-2026
+:    **51 Pegasi b postdoctoral fellow**, Caltech, USA
+:    Advisor: Dimitri Mawet
 
 
 2019-2023
@@ -42,14 +49,18 @@ toc: true
 
 - Oort scholarship to excellent Master's students, Leiden Observatory, 2017-2019
 
-<!-- - Annual scholarship of National Astronomy Observatory, Chinese Academy of Science, 2014 -->
+- Annual scholarship of National Astronomy Observatory, Chinese Academy of Science, 2014
 
 
 ## Talks
 
 ### Invited talk
 
-- Fractionation II conference, Florence, *Isotopes in exoplanets and brown dwarfs.*
+- Bridging It: Connecting Observations and Models of Exoplanets and their Formation, Heidelberg 
+
+- Planetary Formation and Exoplanets in the ELT Era (ExoELT2025), Garching
+
+- Fractionation of isotopes in space II: from the Solar System to galaxies, Florence
 
 - Planetary science seminar at Caltech
 
@@ -62,6 +73,18 @@ toc: true
 - Exoplanets and Disks Meeting at API Amsterdam
 
 ### Contributed talk
+
+2026.07.07
+:   High-Resolution Exoplanet and Stellar Characterization Today and in the ELT Era, Granada
+:   Title: *Extreme winds on the emerging dayside and hydrogen airglow in an ultra-hot Jupiter*
+
+2026.03.19
+:   Exoplanet Atmospheres 2026, Denver
+:   Title: *Extreme winds on the emerging dayside and hydrogen airglow in an ultra-hot Jupiter*
+
+2025.12.10
+:   Exoplanets and Planetary Formation, Shanghai
+:   Title: *Phase-resolved atmospheric dynamics and hydrogen emission in an ultra-hot Jupiter*
 
 2024.06.27
 :   AOGS, South Korea
@@ -98,15 +121,15 @@ toc: true
 
 ## Awarded telescope time
 
+JWST 
+- *Combining isotopic and elemental abundances to unveil the formation and accretion history of a cold Jupiter.* Program ID: 8714, 20 hours (co-PI)
+- *Spectroscopic characterization of the lowest-mass imaged Jupiter analog.*  Program ID: 5342, 13 hours (co-PI)
 
-Keck/KPF
-- *A hell of a climate: spectrally resolved phase curve of the hottest exoplanet.* Program ID: 2024B-C360, 2 nights (PI)
+Keck/KPF, HIRESr
+- *High-resolution phase curve of ultra-hot Jupiters.* ~6 nights (PI)
 
 Keck/KPIC
-- *Keck Planet Imager and Characterizer (KPIC): young giant exoplanets and substellar companions spectroscopic survey.* Program ID: 2024B-C367, 7 nights (co-I)
-
-JWST 
-- *Spectroscopic characterization of the lowest-mass imaged Jupiter analog.*  Program ID: 5342, 13 hours (co-PI)
+- *Keck Planet Imager and Characterizer (KPIC): young giant exoplanets and substellar companions spectroscopic survey.* ~20 nights (co-I)
 
 VLT/CRIRES+
 - *Comparative study on diverse origin and fate of planetary-mass objects in β Pictoris young moving group: brown dwarf members.* Program ID: 111.24KV, 3 hours (PI)
@@ -118,14 +141,13 @@ VLT/CRIRES+
 
 ## Teaching & Mentoring
 
-- Supervision of Summer Undergraduate Research Fellowships (SURF) program, Caltech, 2024
-    *Probing Gas Giant Origins: Chemistry of Exoplanet Atmospheres in the β Pictoris Young Moving Group*
+- Yurou Liu, Summer Undergraduate Research Fellowships (SURF) program, Caltech, 2024.
+    [Chemistry and Isotope Ratios of Substellar Atmospheres in the β Pictoris Young Moving Group](https://ui.adsabs.harvard.edu/abs/2026ApJ..1004..172L/abstract)
 
-
-- Supervision of Master's research project, Leiden University, 2021-2022 
+- Merel Reitsma, Master's research project, Leiden University, 2021-2022 
     *The 12CO/13CO ratio in the atmospheres of super-Jupiters AB Pic b, DH Tau b, and GQ Lup b.*
 
-- Supervision of Master's research project, Leiden University, 2020-2021 
+- Rosa Hoogenboom, Master's research project, Leiden University, 2020-2021 
     *Search for Helium airglow emission in the atmosphere of τ Boo b.*
 
 - Teaching assistant of Exoplanet Interiors and Atmospheres, Leiden University, 2020-2023
@@ -133,7 +155,8 @@ VLT/CRIRES+
 
 ## Service
 
-- Reviewer for AAS journal, CFHT and GEMINI observing proposal
+- Reviewer/panelist for AAS journal, NASA, JWST, CFHT, and GEMINI proposal
+- SOC of Hors3s conference
 - Organizer of exoplanet group meetings, Leiden University
 
 
